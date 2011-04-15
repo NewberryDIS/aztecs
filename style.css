@@ -1,0 +1,420 @@
+  html{
+    height: 100%;
+  }
+  body * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body{
+    background: #f4f3ea;
+    font-family:  "Arial", "Helvetica", sans-serif;
+    width: 947px; 
+    margin: 0 auto;
+    height: 100%;
+    font-size: 1em;
+  }
+  
+  
+  #header{
+    border-top: 1em solid #998e50;
+    border-bottom: 1em solid #998e50;
+    padding: 0 0 0 0;
+    text-align: center;
+    width: 947px;
+  }
+  
+  #header h1{
+    margin: -.13em 0 -.17em;
+    color: #998e50;
+  }
+  
+  #container{
+    background: url('images/page-background-short.png') repeat-y;
+    width: 946px;
+    margin: 0 auto;
+    height: auto;
+    padding-bottom: 1em;
+    border-right: 1px solid #998e50;
+  }
+  
+  #container.full{
+    background: url('images/page-background-long.png') repeat-y;
+    background-color: #998e50;
+    width: 946px;
+  }
+  
+
+
+  
+  #container.full h1{
+    width: 927px;
+  }
+  
+  #container.full.landing{
+    padding-top: 12px;
+   
+  }
+  
+  #container #newberry-logo{
+    width: 70px;
+    height: 86px;
+    border-width: 5px;
+    margin: 0 0 0 22px;
+    
+  }
+  
+  h1.landing{
+    font-size: 240%;
+    color: #F4F3EA;
+/*     float: left; */
+/*     display: inline; */
+    width: 916px;
+    padding-left: 19px;
+    margin: 12px 0;
+  }
+  
+  #language{
+    margin-left: 560px;
+/*     margin-top: -1.5em; */
+  }
+  
+  #language p{
+    margin-bottom: .05em;
+    width: auto;
+  }
+
+
+  
+  #chooser{
+    margin-left: 6em;
+    margin-top: -.01em;
+  }
+  
+  #chooser a{
+    color: #F4F3EA;
+    text-decoration: underline;
+  }
+  
+
+  
+  
+  #footer{
+    border-top: .25em  solid #998e50;
+    border-bottom: .45em solid #998e50;
+    text-align: center;
+    padding: .35em 0;    
+    font-size: 75%;
+  }
+  
+  #footer div{
+    padding: .25em 0;
+  }
+
+  #footer a{
+    color: #C39A10;
+    text-decoration: underline;
+  }
+
+  
+  .sidebar{
+    width: 31%;
+    padding-top: 4em;
+  }
+  
+  .sidebar.right{
+    float: right;
+  }
+  
+  .back{
+    padding-top: 1.5em;
+    
+  }
+  
+  .back a{
+    color: #f3c685;
+  }
+  
+  
+  .sidebar ul li{
+    list-style-type: none;
+    margin-top: 1em;
+  }
+  
+  
+ 
+  
+  
+  
+  .sidebar ul li a{
+    text-decoration: none;
+    display: block;
+    padding: 5px 0 5px 20px;
+    
+  }
+  
+  .sidebar ul li a:hover {
+    color: #f4f3ea;
+    
+  }
+  
+  .back a:hover{
+    text-decoration: underline;
+  }
+  
+p {
+    margin: 1.5em auto 1em 3em;
+    text-align: justify;
+    width: 530px;
+    line-height: 140%;
+    color: #fff;
+  }
+  
+  
+ em {
+ /* color: #fff; */
+ }
+ 
+ p.name{
+  margin: -.75em 0 0 3.75em;
+  width: 450px;
+ }
+ 
+  
+  a {
+    text-decoration: none;
+  }
+  
+  /* general style selectors */
+.sidebar a.section-home{
+  color: #998e50;
+}
+
+.sidebar a.section-0{
+  color:#c39a10;
+}
+
+.sidebar a.section-1 {
+    color: #44706f;
+  }
+
+.sidebar a.section-2 {
+    color: #b35110;
+  }
+  
+.sidebar a.section-3 {
+    color: #eb9100;
+  }
+  
+.sidebar a.section-4 {
+    color: #2d8d99;
+  }
+  
+.sidebar a.section-5 {
+    color: #8c4e4f;
+  }
+  
+  h1.section{
+/*    padding: .25em 0 .25em .75em;*/
+    width: 633px;
+    color: #f4d899;
+    padding: .05em 0 .05em 20px;
+  }
+
+.sidebar a:hover.section-home{
+  background: #998e50;
+}
+
+h1.section-0, .sidebar a:hover.section-0 {
+  background: #c39a10;
+}
+
+h1.section-1, .sidebar a:hover.section-1 {
+    background: #44706f;
+  }
+
+h1.section-2, .sidebar a:hover.section-2 {
+    background: #b35110;
+  }
+  
+h1.section-3, .sidebar a:hover.section-3 {
+    background: #eb9100;
+  }
+  
+h1.section-4, .sidebar a:hover.section-4  {
+    background: #2d8d99;
+  }
+  
+h1.section-5, .sidebar a:hover.section-5 {
+    background:  #8c4e4f;
+  }
+ 
+ h3 {
+  
+  margin: 1.5em 0 0 1.5em;
+  color: white;
+  width: 560px;
+ 
+ }
+  
+  .sidebar.right ul li a{
+    font-weight: bold;
+  }
+  
+  
+  .caps{
+    text-transform: uppercase;
+  }
+  
+
+   
+/*  .separator{
+    width: 653px;
+    height: 3px;
+    background-color: #a17c3d;
+    margin: 3em 0;
+  }*/
+  
+ .thumbnail-stuff:after {
+  content: "."; 
+  display: block; 
+  height: 0; 
+  clear: both; 
+  visibility: hidden;
+}
+
+.thumbnail-stuff {
+/*   display: inline-block; */
+  padding-bottom: 2em;
+  background: url("images/thumbnail-separator.png") no-repeat bottom left;
+}
+  
+/*  .thumbnail-stuff{
+    min-height: 500px;
+  }*/
+  
+  .thumbnail-stuff.quick-and-dirty-bolt-bolt-bolt{
+    margin-top: 50px;
+  }
+  
+  .thumbnail-stuff.quick-and-dirty-bolt-bolt-bolt .thumbnail img{
+    margin-top: 25px;
+  }
+  
+  .thumbnail-stuff a{
+    color: #f3c685;
+  }
+ .thumbnail-text-link{
+  color: #f3c685;
+  font-weight: bold;
+/*   width: 503px; */
+ }
+ 
+ div.thumbnail-text-link{
+  width: 503px;
+  margin-left: 3em; 
+ }
+ 
+
+ a:hover.thumbnail-text-link{
+  text-decoration: underline;
+ }
+ 
+ a.thumbnail{
+  float: right;
+/*   margin: 1.5em 50px 0 0; */
+  margin: auto 50px auto 0;
+  outline: none;
+  border: none;
+  text-decoration: none;
+  
+ }
+
+ .thumbnail img{
+  width: 250px;
+  height: auto;
+  background: gray;
+  border: #f4f3ea 20px solid;
+ }
+ 
+ .date{
+  font-weight: bold;
+  margin-right: .5em;
+ }
+ 
+ .quote{
+  font-style: italic;
+ }
+
+.title{
+  display: block;
+  font-style: italic;
+}
+
+.author-info{
+  display: block;
+  text-align: left;
+}
+
+.call{
+  display: block;
+ /* margin: inherit 0;*/
+  font-size: 90%;
+  border-bottom: solid 1px #fff;
+  color: #fff;
+/*   padding-left: 3em; */
+
+}
+
+#container.full .call{
+  border: none;
+  margin: 0;
+}
+
+#container img{
+  background: gray;
+  border: #f4f3ea 20px solid;
+}
+
+#container.full img{
+  width: 800px;
+  height: auto;
+  margin: 1.5em 0 0 3em;
+}
+
+#container.full p.image-title{
+  width: 700px;
+  color: #f3c685;
+  font-weight: bold;
+}
+
+
+img.rotating-image{
+  width: 490px;
+  height: 300px;
+  margin: 1.5em 0 0 3em;
+}
+
+#container.full img.landing-image{
+  width: 650px;
+  height: 421px;
+  margin: 24px 128px;
+
+}
+
+#logos{
+  width: 530px;
+  margin: 2em 0 0 32px;
+}
+
+#logos img.funding-logo{
+  border-width: 4px !important;
+  display: block;
+  margin: 0 auto;
+  width: 244px;
+  height: 40px;
+}
+
+.sidebar img{
+  margin: 0 0 3.5em -62px;
+}

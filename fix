@@ -1,0 +1,1 @@
+sed 's/\<li style=\"border: 2px solid gray; margin: 20px;\"\>\<a href=\"http:\/\/www.surveymonkey.com\/s.aspx\?sm=qlnLfkciWAjKOQgD_2bqYOFA_3d_3d\" class=\"section-0\">Interested in more resources like this\? We would like to hear from you\. Please take a five-minute survey\.\<\/a\>\<\/li\>//' index_en.html

@@ -1,0 +1,80 @@
+image naming convention is 
+s* = section number
+i* = image number
+p* = part number if images are more than one piece (optional)
+
+ours		old						notes
+
+s1i1p1		Codex Borbonicus pg. 1v-2r.jpg	
+s1i1p2		Codex Borbonicus pg. 2v-3r.jpg	
+
+s2i1		Ayer f.655.51.C8 1524d Cortes Map.jpg
+s2i2								not taken yet
+s2i3								not taken yet
+s2i4								not taken yet
+s2i5		Ayer folio F1219.56.C625 C64 1992 vol. 3 Codex Mendoza.jpg
+s2i6								not taken yet
+s2i7								not taken yet
+s2i8								not taken yet
+
+s3i1								not taken yet
+s3i2								not taken yet
+s3i3								not taken yet
+s3i4								not taken yet
+s3i5								not taken yet
+s3i6								not taken yet
+s3i7p1		Ayer MS 1485, Bernardino de Sahagun-Front Cover
+s3i7p2		Ayer MS 1485 Bernardino de Sahagun,pg.1
+s3i7p3		Ayer MS 1485 Bernardino de Sahagun,signature.tif
+s3i8								not taken yet
+s3i9								not taken yet
+s3i10								not taken yet
+s3i11								not taken yet
+s3i12								not taken yet
+s3i13		Ayer folio F1229 .S23 1979 vol. 1 Bernardino de Sahagun, Book 4 pg.34v
+s3i14		Ayer folio F1229.S23 1979 vol.2 folio.63v-64r
+s3i15		Ayer folio F1229 .S23 1979 vol. 3, Bernardino de Sahagun, t.p of book 12
+
+s4i1		Ayer MS 1900 estate of Don Miguel Damian, MX
+s4i2		Ayer 507 .B6 1891, The Will of Don Miguel Damian pl.#34
+s4i3		Ayer MS 1902
+s4i4		Ayer MS 1901
+s4i5		Ayer 507.B6 1891 Atlas plate #33
+s4i6		Ayer MS 1477 folder#1, sheet #1
+s4i7		Ayer MS 1801 map #1
+s4i8		Ayer MS 1801 map #2
+s4i9		Ayer MS 1903
+s4i10		Ayer MS 1906 Temascaltepeque map 
+s4i11		Ayer MS 1476, folder 4 pg. marked 1476 A III
+s4i12		Ayer MS 1481, Guias de Manuscriptos en Nahuatl, (B1F) folio.1r
+s4i13		Ayer MS 1491 (Vault), Libro dinde se asientan..pg.46v-47r
+s4i14								not taken yet
+s4i15								not taken yet
+s4i16								not taken yet
+s4i17p1		Ayer MS 1907
+s4i17p2		Ayer MS 1907-2
+s4i17p3		Ayer MS 1907-3
+s4i18		Ayer MS 1472 Codex Cempoallan- folio 12v-13r
+s4i19		Ayer MS 1479 (Vault), Codex Tepotzotlan, Back Cover
+s4i20		Ayer MS 1106 D8 (Vault) Bx.#1 Fl.#15
+s4i21		Ayer MS 2178 Pintura del beneficio del..pg.3
+s4i22p1		Ayer MS 1031 plate #7
+s4i22p2		Ayer MS 1031 plate #9
+s4i23		Case MS 5011(Vault, folio) Conquista de Mexico
+s4i24								not taken yet
+s4i25		Ayer broadside PM 4068.1.I93 1755, Izcatqui in icuepea.
+s4i26p1		Ayer MS 1168 (Vault) Montezuma papers, doc.#1
+s4i26p2								not taken yet
+
+s5i1		Friendly Cannibals, Enrique Chagoya
+s5i2p1		Uncat. Libro Quemado, Leandro Katz, front cover
+s5i2p2		Uncat. Libro Quemado, Leandro Katz
+s5i3		Ayer PM 4068.H47, In Yancuic Nahua Zazanilli pg.2-3
+s5i4		Curandero Sr. Alfonso Garc�a Tellez, Historia de una vivienda
+s5i5p1		Uncat. Codex Aeroscriptus Ehrenbergensis, Felipe Ehrenberg, front cover
+s5i5p2		Uncat. Codex Aeroscriptus Ehrenbergensis, Felipe Ehrenberg#1
+s5i5p3		Uncat. Codex Aeroscriptus Ehrenbergensis, Felipe Ehrenberg#2
+s5i5p4		Uncat. Codex Aeroscriptus Ehrenbergensis, Felipe Ehrenberg#3
+s5i5p5		Uncat. Codex Aeroscriptus Ehrenbergensis, Felipe Ehrenberg#4
+s5i6		Codex Espangliensis
+s5i7								not taken yet
